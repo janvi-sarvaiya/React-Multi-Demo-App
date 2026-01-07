@@ -1,0 +1,17 @@
+nav{
+    background-color: #8424b3;
+}
+nav ul{
+    display: flex;
+    margin-left: 5rem;
+}
+nav ul li{
+    list-style: none;
+    padding: 16px 15px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+}

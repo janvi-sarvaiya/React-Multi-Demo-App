@@ -1,0 +1,42 @@
+
+.no-user{
+    margin-top: 100px;
+    text-align: center;
+    background-color: white;
+    color: red;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 6px;
+}
+.user-data{
+    margin-top: 20px;
+}
+.user-data table{
+    width: 340px;
+    border: 1px solid black
+}
+
+.user-data table th{
+    background-color:#8424b3;
+    padding: 10px;
+    color: white;
+}
+.user-data table tbody{
+    background-color: white;
+}
+.user-data table tbody td{
+    padding: 10px;
+}
+.user-data table .action-btn{
+    display: flex;
+    gap: 10px;
+}
+.user-data table .action-btn button{
+    padding: 7px 10px;
+    background-color: #8424b3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: large;
+}
